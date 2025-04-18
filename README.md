@@ -1,10 +1,10 @@
 # Sowing-Taker-Auto-Reff
 Not Support For Multi Accounts.
 
-register in : [https://sowing.taker.xyz/?start=H9YKXTHM]
+register in : https://sowing.taker.xyz/?start=H9YKXTHM
 
 ```bash
-git clone [https://github.com/Rosellines/SowingTakerReff.git]
+git clone https://github.com/Rosellines/SowingTakerReff.git
 cd SowingTakerReff
 ```
 then
